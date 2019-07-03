@@ -1,0 +1,4 @@
+plane: center( 0, -26, 0) normal( 0, 1, 0) color( 10, 67, 200)
+sphere: center( -12, 25, 150) radius( 19) color( 250, 9, 54)
+cylinder: center( -70, 0, 40) radius( 10) normal( 0, 1, 0) color( 0, 200, 200)
+cone: center( 40, 0, 15) radius( 60) normal( 0, 1, 0) color( 19, 180, 150)

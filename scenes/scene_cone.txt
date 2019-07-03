@@ -1,0 +1,1 @@
+cone: center( 40, 0, 50) radius( 60) normal( 0, 1, 0) color( 180, 170, 250) 

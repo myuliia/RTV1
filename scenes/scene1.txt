@@ -1,0 +1,6 @@
+plane: center( 60, 0, 0) normal( -1, 0, 0) color( 255, 255, 0)
+plane: center( -60, 0, 0) normal( 1, 0, 0) color( 255, 255, 0)
+plane: center( 0, 50, 0) normal( 0, -1, 0) color( 255, 255, 0)
+plane: center( 0, 0, 100) normal( 0, 0, -1) color( 255, 255, 0)
+plane: center( 0, -30, 0) normal( 0, 1, 0) color( 255, 255, 0)
+sphere: center( -10, 15, 80) radius( 20) color( 0, 255, 0)

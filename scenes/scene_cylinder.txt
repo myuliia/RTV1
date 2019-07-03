@@ -1,0 +1,1 @@
+cylinder: center( 10, 25, 150) radius( -25) normal( 1, 0, 1) color( 250, 255, 0)
